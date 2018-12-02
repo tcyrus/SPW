@@ -30,8 +30,7 @@ It's a simple PCB to powered your Game Boy SP with Raspberry Pi W
 
 -----
 
-### Parts List:
-#### [wiki](https://github.com/Gameboypi/SPW/wiki)
+### [Parts List](parts_list.md)
 
 -----
 
